@@ -19,4 +19,4 @@ or:
 
 `resume export --format <file type> --theme <theme name>`
 
-See a list of available themes: (http://jsonresume.org/themes/)[http://jsonresume.org/themes/]
+See a list of available themes: [ http://jsonresume.org/themes/ ](http://jsonresume.org/themes/)
