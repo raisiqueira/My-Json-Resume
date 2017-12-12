@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Raí Siqueira",
+    "label": "IT Analyst and Front-End Developer",
+    "picture": "",
+    "email": "rai93siqueira@gmail.com",
+    "phone": "(55) 9 9918-8079",
+    "website": "https://raisiqueira.com",
+    "summary": "Hello! My name is Raí Siqueira. I'm a front-end developer and IT Analyst. I love Linux and open source projects.",
+    "location": {
+      "address": "20 Gerson Pinto St",
+      "postalCode": "56640-000",
+      "city": "Custódia",
+      "countryCode": "BR",
+      "region": "Pernambuco"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "rai_siqueira",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "raisiqueira",
+        "url": "https://github.com/raisiqueira"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IMEC - Industria de Medicamentos Custodia",
+      "position": "IT Coordinator",
+      "website": "https://www.laboratorioimec.com.br",
+      "startDate": "2017-04-01",
+      "endDate": "",
+      "summary": "Responsible for preparing the implementation plan, elaborating and executing improvement to increase the use of the Protheus v12 ERP system.",
+      "highlights": [
+        "Totvs Protheus v12 ERP Admistrator",
+        "DevOps manager (Linux and Windows Network)"
+      ]
+    },
+    {
+      "company": "Totvs Protheus v12 ERP Admistrator",
+      "position": "IT HelpDesk",
+      "website": "https://www.laboratorioimec.com.br",
+      "startDate": "2015-06-01",
+      "endDate": "2017-04-01",
+      "summary": "IT Analyst focused on Protheus ERP support Version 12.",
+      "highlights": [
+        "Totvs Protheus v12 ERP support."
+      ]
+    },
+    {
+      "company": "Infocel",
+      "position": "System Analyst",
+      "website": "",
+      "startDate": "2012-04-01",
+      "endDate": "2015-06-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Mandacaru Community",
+      "position": "Leader",
+      "website": "",
+      "startDate": "2017-10-23",
+      "endDate": "",
+      "summary": "Leader of the Mandacaru Community movement. Movement responsible for promoting entrepreneurship and the ecosystem of startups in the backlands of Pernambuco.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Estácio de Sá University",
+      "area": "Information Systems",
+      "studyType": "Bachelor",
+      "startDate": "2015-06-01",
+      "endDate": "2018-06-01",
+      "gpa": "",
+      "courses": [
+        "Windows Server 2012 manager on Imasters Cursos",
+        "Linux Essentials on 4Linux"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Startup Weekend Petrolina",
+      "date": "2016",
+      "awarder": "TechStars",
+      "summary": "Honorable Mention Award with the project \"Sua Dieta\""
+    },
+    {
+      "title": "Startup Weekend Sertão",
+      "date": "2016",
+      "awarder": "TechStars",
+      "summary": "Honorable Mention Award with the project \"Sol da Peste\""
+    },
+    {
+      "title": "Hack a City Garanhuns",
+      "date": "2017",
+      "awarder": "hackacity.eu",
+      "summary": "First placed with the project \"Walk @ Bit\""
+    },
+    {
+      "title": "Startup Weekend Juazeiro",
+      "date": "2017",
+      "awarder": "TechStars",
+      "summary": "vice champion with the project \"Fit Tuk\""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Paging with Slim Framework and Eloquent ORM",
+      "publisher": "My Personal website",
+      "releaseDate": "",
+      "website": "http://raisiqueira.com/paginacao-slim-framework-eloquent/15?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhQjDQS7YTpa8VY64dqepDw%3D%3D",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "VueJS",
+        "ReactJS"
+      ]
+    },
+    {
+      "name": "ERP",
+      "level": "Master",
+      "keywords": [
+        "Totvs Protheus",
+        "ADvPL"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": [
+        "Docker",
+        "Linux"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": []
+}
