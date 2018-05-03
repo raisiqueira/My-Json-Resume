@@ -5,7 +5,7 @@
     "picture": "",
     "email": "rai93siqueira@gmail.com",
     "phone": "(55) 9 9918-8079",
-    "website": "https://raisiqueira.com",
+    "website": "https://raisiqueira.me",
     "summary": "Hello! My name is Raí Siqueira. I'm a front-end developer and IT Analyst. I love Linux and open source projects.",
     "location": {
       "address": "20 Gerson Pinto St",
@@ -65,7 +65,7 @@
     {
       "organization": "Mandacaru Community",
       "position": "Leader",
-      "website": "",
+      "website": "https://mandacaru.club",
       "startDate": "2017-10-23",
       "endDate": "",
       "summary": "Leader of the Mandacaru Community movement. Movement responsible for promoting entrepreneurship and the ecosystem of startups in the backlands of Pernambuco.",
@@ -117,7 +117,7 @@
       "name": "Paging with Slim Framework and Eloquent ORM",
       "publisher": "My Personal website",
       "releaseDate": "",
-      "website": "http://raisiqueira.com/paginacao-slim-framework-eloquent/15?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhQjDQS7YTpa8VY64dqepDw%3D%3D",
+      "website": "http://raisiqueira.me/paginacao-slim-framework-eloquent/15?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhQjDQS7YTpa8VY64dqepDw%3D%3D",
       "summary": ""
     }
   ],
@@ -128,9 +128,10 @@
       "keywords": [
         "HTML5",
         "CSS3",
-        "Javascript",
+        "JavaScript",
         "VueJS",
-        "ReactJS"
+        "ReactJS",
+        "NodeJS"
       ]
     },
     {
@@ -143,10 +144,19 @@
     },
     {
       "name": "DevOps",
-      "level": "Master",
+      "level": "intermediate",
       "keywords": [
         "Docker",
         "Linux"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "intermediate",
+      "keywords": [
+        "xCode",
+        "React Native",
+        "Android Studio"
       ]
     }
   ],
@@ -157,7 +167,7 @@
     },
     {
       "language": "English",
-      "fluency": ""
+      "fluency": "intermediate"
     }
   ],
   "interests": [],
