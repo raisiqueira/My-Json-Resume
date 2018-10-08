@@ -8,9 +8,9 @@
     "website": "https://raisiqueira.me",
     "summary": "Hello! My name is Raí Siqueira. I'm a front-end developer and IT Analyst. I love Linux and open source projects.",
     "location": {
-      "address": "20 Gerson Pinto St",
-      "postalCode": "56640-000",
-      "city": "Custódia",
+      "address": "587 Rua Jõao Fernandes de Vieira St",
+      "postalCode": "500050-245",
+      "city": "Recife",
       "countryCode": "BR",
       "region": "Pernambuco"
     },
@@ -29,11 +29,24 @@
   },
   "work": [
     {
+      "company": "Árvore Labs",
+      "position": "Front-End Engineer",
+      "website": "arvoreconsultoria.com",
+      "startDate": "2018-07-27",
+      "endDate": "",
+      "summary": "Front-End Enginner with roles for planning and delivering software platforms used across multiple products and organizational units.",
+      "highlights": [
+        "React",
+        "Redux",
+        "Redux-Saga"
+      ]
+    },
+    {
       "company": "IMEC - Industria de Medicamentos Custodia",
       "position": "IT Coordinator",
       "website": "https://www.laboratorioimec.com.br",
       "startDate": "2017-04-01",
-      "endDate": "",
+      "endDate": "2018-07-27",
       "summary": "Responsible for preparing the implementation plan, elaborating and executing improvement to increase the use of the Protheus v12 ERP system.",
       "highlights": [
         "Totvs Protheus v12 ERP Admistrator",
@@ -131,7 +144,8 @@
         "JavaScript",
         "VueJS",
         "ReactJS",
-        "NodeJS"
+        "NodeJS",
+        "Redux"
       ]
     },
     {
@@ -155,8 +169,7 @@
       "level": "intermediate",
       "keywords": [
         "xCode",
-        "React Native",
-        "Android Studio"
+        "React Native"
       ]
     }
   ],
